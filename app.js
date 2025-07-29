@@ -1,7 +1,9 @@
 const image = document.querySelector("#img");
 
+image.addEventListener("click", () => {
+  picture();
+});
 
-
-function image {
-    console.log("Picture of my Pet");
+function picture() {
+  console.log("Picture of my Pet");
 }
