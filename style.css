@@ -2,3 +2,8 @@ h1 {
   color: teal;
   text-align: center;
 }
+img {
+  width: 50svw;
+  height: 60svh;
+  position: absolute;
+}
