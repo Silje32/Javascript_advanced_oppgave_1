@@ -1,5 +1,6 @@
 const image = document.querySelector("#img");
 
+// Added click eventlistener
 image.addEventListener("click", () => {
   picture();
 });
